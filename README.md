@@ -1,10 +1,10 @@
-# Java-script-primeiro-exercicio
-Primeiro exercício utilizando JavaScript
+# Java-script-first-exercice
+First exercice using JavaScript
 
-nome: stringer
-sobrenome: stringer
-peso: number
-altura: number
-data De Internacao: stringer
-diabético: stringer
+name: stringer
+last name: stringer
+heigh: number
+weight: number
+date of admission: stringer
+diabetes: stringer
 
